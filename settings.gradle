@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Retrofit_Volley_Simple_GET_Request"
